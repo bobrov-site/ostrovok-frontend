@@ -1,5 +1,5 @@
 # Description
-ostrovok (test challenge)[https://github.com/ostrovok-tech/code-challenge/tree/master/js] for frontend-developed position
+ostrovok [test challenge](https://github.com/ostrovok-tech/code-challenge/tree/master/js) for frontend-developed position
 
 ## First Task - curry.js
     node curry.js
